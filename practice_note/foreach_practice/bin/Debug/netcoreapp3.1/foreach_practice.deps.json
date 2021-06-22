@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "foreach_practice/1.0.0": {
+        "runtime": {
+          "foreach_practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "foreach_practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

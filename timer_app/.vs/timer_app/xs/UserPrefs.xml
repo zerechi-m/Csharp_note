@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CE633924-E279-47D0-ABB3-0F55A9D13D41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="timer_app/Program.cs">
+    <Files>
+      <File FileName="timer_app/Pages/Index.cshtml.cs" Line="7" Column="1" />
+      <File FileName="timer_app/Pages/Index.cshtml" />
+      <File FileName="timer_app/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="timer_app" expanded="True">
+            <Node name="timer_app" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.timer__app PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

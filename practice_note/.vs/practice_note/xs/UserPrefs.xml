@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BA3FE700-FA3C-491B-95E9-CAEAEAD6F9EC}|Default">
+  <MonoDevelop.Ide.ItemProperties.practice__note PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.for__practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice_note" expanded="True" selected="True">
+            <Node name="for_practice" expanded="True" />
+            <Node name="foreach_practice" expanded="True" />
+            <Node name="practice_note" expanded="True" />
+            <Node name="switch_practice" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.foreach__practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.switch__practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

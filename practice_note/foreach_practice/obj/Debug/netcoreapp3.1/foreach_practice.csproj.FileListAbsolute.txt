@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/bin/Debug/netcoreapp3.1/foreach_practice.deps.json
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/bin/Debug/netcoreapp3.1/foreach_practice.runtimeconfig.json
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/bin/Debug/netcoreapp3.1/foreach_practice.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/bin/Debug/netcoreapp3.1/foreach_practice.dll
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/bin/Debug/netcoreapp3.1/foreach_practice.pdb
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.csprojAssemblyReference.cache
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.dll
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.pdb
+/Users/matsuura/Csharp_note/practice_note/foreach_practice/obj/Debug/netcoreapp3.1/foreach_practice.genruntimeconfig.cache

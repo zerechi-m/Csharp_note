@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.csprojAssemblyReference.cache
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/practice_note/for_practice/bin/Debug/netcoreapp3.1/for_practice.deps.json
+/Users/matsuura/Csharp_note/practice_note/for_practice/bin/Debug/netcoreapp3.1/for_practice.runtimeconfig.json
+/Users/matsuura/Csharp_note/practice_note/for_practice/bin/Debug/netcoreapp3.1/for_practice.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/practice_note/for_practice/bin/Debug/netcoreapp3.1/for_practice.dll
+/Users/matsuura/Csharp_note/practice_note/for_practice/bin/Debug/netcoreapp3.1/for_practice.pdb
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.dll
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.pdb
+/Users/matsuura/Csharp_note/practice_note/for_practice/obj/Debug/netcoreapp3.1/for_practice.genruntimeconfig.cache
