@@ -1,22 +1,11 @@
 ﻿<Properties StartupConfiguration="{C075407E-D02B-4373-847F-6519C019B3C9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="plactice201/Program.cs">
     <Files>
-      <File FileName="plactice201/Program.cs" Line="1" Column="1" />
+      <File FileName="plactice201/Program.cs" Line="31" Column="20" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="plactice201" expanded="True">
-            <Node name="plactice201" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.plactice201 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.plactice201 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
