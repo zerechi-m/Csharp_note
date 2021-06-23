@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/plactice201/plactice201/bin/Debug/netcoreapp3.1/plactice201.deps.json
+/Users/matsuura/Csharp_note/plactice201/plactice201/bin/Debug/netcoreapp3.1/plactice201.runtimeconfig.json
+/Users/matsuura/Csharp_note/plactice201/plactice201/bin/Debug/netcoreapp3.1/plactice201.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/plactice201/plactice201/bin/Debug/netcoreapp3.1/plactice201.dll
+/Users/matsuura/Csharp_note/plactice201/plactice201/bin/Debug/netcoreapp3.1/plactice201.pdb
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.csprojAssemblyReference.cache
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.dll
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.pdb
+/Users/matsuura/Csharp_note/plactice201/plactice201/obj/Debug/netcoreapp3.1/plactice201.genruntimeconfig.cache
