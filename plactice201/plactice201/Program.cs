@@ -28,12 +28,33 @@ namespace plactice201
 
             d = (int)1.25;    // int型に小数点は使用できないので、(int)で型変更を明示的に行う可読性向上（キャスト）
             e = 1.25;
-
-            d = (int)e;
             f = 10;
             g = 10.0;
             
             Console.WriteLine($"{d} {e} {f} {g}");
+
+          // 文字列の結合について
+            string  str1, str2;
+
+            Console.Write("str1の値を入力");
+            //str1 = Console.ReadLine();　//str1の入力
+            str1 = "文字列";
+           
+            Console.WriteLine("str2の値を入力してください");
+            //str2 = Console.ReadLine();
+            str2 = "最高";
+            Console.WriteLine($"{str1} + {str2} = {str1 + str2}");　//文字列の結合
+
+        　// 定数について
+
+            const int num = 100;      // const 型　変数名 で定数を定める
+            const string str = "哲学";
+            Console.WriteLine($"{str} + {num} = {str + num}");
+
+
+
+
+
 
         }
     }
