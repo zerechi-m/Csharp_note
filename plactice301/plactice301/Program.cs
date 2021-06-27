@@ -48,6 +48,31 @@ namespace plactice301
             {
                 Console.WriteLine("1〜6で入力してください");
             }
+
+
+            // switch文について
+            Console.Write("1から3を入力してください");
+            int num = int.Parse(Console.ReadLine());
+
+            switch(num){
+                case 1:
+                    Console.WriteLine("one");
+                    break;
+
+                case 2:
+                    Console.WriteLine("two");
+                    break;
+                case 3:
+                    Console.WriteLine("three");
+                    break;
+                
+                default:
+                    Console.WriteLine("1~3を入力してください");
+                    break;
+
+            }
+            
+
         }
     }
 }
