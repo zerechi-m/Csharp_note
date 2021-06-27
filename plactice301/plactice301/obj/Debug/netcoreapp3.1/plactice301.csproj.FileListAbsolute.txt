@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/plactice301/plactice301/bin/Debug/netcoreapp3.1/plactice301.deps.json
+/Users/matsuura/Csharp_note/plactice301/plactice301/bin/Debug/netcoreapp3.1/plactice301.runtimeconfig.json
+/Users/matsuura/Csharp_note/plactice301/plactice301/bin/Debug/netcoreapp3.1/plactice301.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/plactice301/plactice301/bin/Debug/netcoreapp3.1/plactice301.dll
+/Users/matsuura/Csharp_note/plactice301/plactice301/bin/Debug/netcoreapp3.1/plactice301.pdb
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.csprojAssemblyReference.cache
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.dll
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.pdb
+/Users/matsuura/Csharp_note/plactice301/plactice301/obj/Debug/netcoreapp3.1/plactice301.genruntimeconfig.cache
