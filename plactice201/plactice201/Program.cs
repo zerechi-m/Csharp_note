@@ -27,6 +27,7 @@ namespace plactice201
             double e, f, g;　// 浮動小数点型
 
             d = (int)1.25;    // int型に小数点は使用できないので、(int)で型変更を明示的に行う可読性向上（キャスト）
+                              // double型をint型に変換する際には、小数点以下は切り捨てる
             e = 1.25;
             f = 10;
             g = 10.0;
@@ -50,10 +51,37 @@ namespace plactice201
             const int num = 100;      // const 型　変数名 で定数を定める
             const string str = "哲学";
             Console.WriteLine($"{str} + {num} = {str + num}");
+            /* string型 + int型 = int型を文字列型として結合することができる。（ruby や pythonとはちがう)
+               キャストを用いて数値型をstring型に変換する必要があると思ったが必要はない */
 
 
+            /* 主な型について
+
+               string型 = 文字列
+               int型 = 整数
+            　　double型 = 小数点
+               char型 = 単一文字
+            　　bool型 = true か false
+             */
 
 
+            // 例題1
+            int x = 2, y = 3, z;
+            Console.WriteLine($"{x + y}");
+            z = x - y;
+            Console.WriteLine("{0}", z);
+
+            // 例題2
+            string s1 = "あいう", s2 = "えお", s3;
+            s3 = s1 + s2;
+            Console.WriteLine($"{s3}");
+
+            // 例題3
+
+            int nn1 = 2, nn3;
+            double nn2 = 3.5 + 10;
+            nn3 = (int)nn2;
+            Console.WriteLine("{0} + {1} = {2} : int型に変更したnn3:{3}", nn1, nn2, nn1 + nn2, nn3);
 
 
         }
