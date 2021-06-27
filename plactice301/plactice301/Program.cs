@@ -16,6 +16,10 @@ namespace plactice301
                 // true 真の場合の処理
                 Console.WriteLine($"a {a} は正の数です");
             }
+            else if (a == -5 || a == -3)
+            {
+                Console.WriteLine("a は5もしくは3です");
+            }
             else
             {
                 // false　偽の場合の処理
