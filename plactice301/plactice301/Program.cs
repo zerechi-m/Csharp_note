@@ -29,7 +29,7 @@ namespace plactice301
 
 
             // if文の論理式 と if文のネスト
-            Console.Write("サイコロの目を入力: 1 ~ 6: ");
+            //Console.Write("サイコロの目を入力: 1 ~ 6: ");
 
             int dice = int.Parse(Console.ReadLine());
 
@@ -64,6 +64,12 @@ namespace plactice301
                     break;
                 case 3:
                     Console.WriteLine("three");
+                    break;
+
+                // case文は下記のようにまとめることができるß
+                case 4:
+                case 5:
+                    Console.WriteLine("バカたれ1〜3で入力してくださいな");
                     break;
                 
                 default:
