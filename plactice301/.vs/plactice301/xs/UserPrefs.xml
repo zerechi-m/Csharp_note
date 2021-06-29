@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3CD9B5AD-C1ED-421D-9555-8ED00E90F7D7}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="plactice301/Program.cs">
     <Files>
-      <File FileName="plactice301/Program.cs" Line="1" Column="1" />
+      <File FileName="plactice301/Program.cs" Line="129" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.plactice301 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.plactice301 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

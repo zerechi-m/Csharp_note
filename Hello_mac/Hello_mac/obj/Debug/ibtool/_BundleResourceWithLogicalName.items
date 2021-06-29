@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Storyboard.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Storyboard.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Storyboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>
