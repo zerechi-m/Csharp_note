@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D87DF5D6-7E13-443C-907B-6D80E796658F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="first_mac/ViewController.cs">
+    <Files>
+      <File FileName="first_mac/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="first_mac/ViewController.cs" Line="41" Column="10" />
+      <File FileName="first_mac/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="first_mac/Main.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="first_mac" expanded="True">
+            <Node name="first_mac" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.first__mac PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

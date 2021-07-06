@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/branch/branch/bin/Debug/netcoreapp3.1/branch.deps.json
+/Users/matsuura/Csharp_note/branch/branch/bin/Debug/netcoreapp3.1/branch.runtimeconfig.json
+/Users/matsuura/Csharp_note/branch/branch/bin/Debug/netcoreapp3.1/branch.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/branch/branch/bin/Debug/netcoreapp3.1/branch.dll
+/Users/matsuura/Csharp_note/branch/branch/bin/Debug/netcoreapp3.1/branch.pdb
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.csprojAssemblyReference.cache
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.dll
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.pdb
+/Users/matsuura/Csharp_note/branch/branch/obj/Debug/netcoreapp3.1/branch.genruntimeconfig.cache
