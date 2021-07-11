@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E51751DB-DA53-48D8-AEAF-D0D9BCB0FDE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="out_ref/Program.cs">
+    <Files>
+      <File FileName="out_ref/Program.cs" Line="32" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="out_ref" expanded="True" selected="True">
+            <Node name="out_ref" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.out__ref PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

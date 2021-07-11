@@ -1,0 +1,11 @@
+/Users/matsuura/Csharp_note/out_ref/out_ref/bin/Release/netcoreapp3.1/out_ref.deps.json
+/Users/matsuura/Csharp_note/out_ref/out_ref/bin/Release/netcoreapp3.1/out_ref.runtimeconfig.json
+/Users/matsuura/Csharp_note/out_ref/out_ref/bin/Release/netcoreapp3.1/out_ref.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/out_ref/out_ref/bin/Release/netcoreapp3.1/out_ref.dll
+/Users/matsuura/Csharp_note/out_ref/out_ref/bin/Release/netcoreapp3.1/out_ref.pdb
+/Users/matsuura/Csharp_note/out_ref/out_ref/obj/Release/netcoreapp3.1/out_ref.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/out_ref/out_ref/obj/Release/netcoreapp3.1/out_ref.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/out_ref/out_ref/obj/Release/netcoreapp3.1/out_ref.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/out_ref/out_ref/obj/Release/netcoreapp3.1/out_ref.dll
+/Users/matsuura/Csharp_note/out_ref/out_ref/obj/Release/netcoreapp3.1/out_ref.pdb
+/Users/matsuura/Csharp_note/out_ref/out_ref/obj/Release/netcoreapp3.1/out_ref.genruntimeconfig.cache
