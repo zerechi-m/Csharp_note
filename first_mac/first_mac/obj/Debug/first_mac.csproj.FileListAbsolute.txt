@@ -5,7 +5,7 @@
 /Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
 /Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/coremlc/_PartialAppManifest.items
 /Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/first_mac.csprojAssemblyReference.cache
 /Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/first_mac.csproj.CoreCompileInputs.cache
 /Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/first_mac.exe
 /Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/first_mac.pdb
+/Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/first_mac.csproj.AssemblyReference.cache

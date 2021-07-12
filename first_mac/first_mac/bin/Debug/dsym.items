@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="first_mac.app">
+      <NativeExecutable>first_mac</NativeExecutable>
+      <CompiledArchitectures></CompiledArchitectures>
+      <NoDSymUtil>true</NoDSymUtil>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <SymbolsList>/Users/matsuura/Csharp_note/first_mac/first_mac/obj/Debug/mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

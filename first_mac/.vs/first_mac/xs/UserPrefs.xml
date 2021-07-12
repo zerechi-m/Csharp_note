@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{D87DF5D6-7E13-443C-907B-6D80E796658F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="first_mac/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="first_mac/Main.cs">
     <Files>
       <File FileName="first_mac/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="first_mac/ViewController.cs" Line="41" Column="10" />
-      <File FileName="first_mac/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="first_mac/ViewController.cs" />
+      <File FileName="first_mac/ViewController.designer.cs" />
       <File FileName="first_mac/Main.cs" Line="10" Column="1" />
     </Files>
     <Pads>
@@ -11,7 +11,8 @@
         <State name="__root__">
           <Node name="first_mac" expanded="True">
             <Node name="first_mac" expanded="True">
-              <Node name="ViewController.cs" expanded="True" selected="True" />
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
             </Node>
           </Node>
         </State>
