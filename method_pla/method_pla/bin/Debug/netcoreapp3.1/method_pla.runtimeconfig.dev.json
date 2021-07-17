@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/matsuura/.dotnet/store/|arch|/|tfm|",
+      "/Users/matsuura/.nuget/packages"
+    ]
+  }
+}
