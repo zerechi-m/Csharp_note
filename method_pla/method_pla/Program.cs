@@ -14,7 +14,7 @@ namespace method_pla
             //    １つの int 型引数を取り、結果を int 型の戻り値として返すこと
 
             int num = rand.Next(1, 10);
-            
+
             Console.WriteLine($"問1：{num}の二乗は{Square(num)}");
 
 
@@ -43,10 +43,10 @@ namespace method_pla
 
             //問5　サイズを示す数値と、表示する文字を引数とし、三角形を表示するメソッドを作成しなさい。
             //　　　このメソッドを使用して、サイズと文字の異なる３つの三角形を表示しなさい。
-            char[] k = new char[] { '%', '&', '|', '~', '$'};
+            char[] k = new char[] { '%', '&', '|', '~', '$' };
             Console.WriteLine();
             int x = rand.Next(1, 4);
-            Triangle_2(x,  k[rand.Next(0, k.Length)]); // 配列の中からランダムに記号を取得
+            Triangle_2(x, k[rand.Next(0, k.Length)]); // 配列の中からランダムに記号を取得
 
             int y = rand.Next(4, 7);
             Triangle_2(y, k[rand.Next(0, k.Length)]);
@@ -54,6 +54,22 @@ namespace method_pla
             int z = rand.Next(7, 10);
             Triangle_2(z, k[rand.Next(0, k.Length)]);
 
+            //問6　九九のひとつの段を表示するメソッドを作成しなさい。何の段（ 1 ～ 9 ）であるかを引数とします。
+
+            for (int i = 1; i <= 9; i++)
+            {
+                Mult_p(i);
+            }
+
+            //問7　1000 未満の素数をすべて表示するプログラムを素数判定のメソッドを用いて作成
+
+            for (int i = 1; i < 1000; i++)
+            {
+                if (Prime(i))
+                {
+                    Console.Write($"{i}, ");
+                }
+            }
 
         }
 
@@ -96,7 +112,7 @@ namespace method_pla
 
             for (int i = 1; i <= x; i++)
             {
-                Console.WriteLine($"{s}" );
+                Console.WriteLine($"{s}");
                 s += y;　　　　　　　　　　　　　// 文字列の結合を行い、再代入している。
             }
         }
@@ -104,7 +120,7 @@ namespace method_pla
         //問5メソッド start -------------------
         static void Triangle_2(int a, char b)
         {
-            
+
             for (int i = 0; i <= a; i++)
             {
                 for (int j = 0; j <= i; j++) //char型のため、文字列の結合は使用できない。
@@ -112,10 +128,49 @@ namespace method_pla
                     Console.Write(b);
                 }
                 Console.WriteLine();
-                
+
             }
         }
         //問5メソッド end -------------------
 
+        //問6メソッド start -------------------
+
+        static void Mult_p(int x)
+        {
+            for (int i = 1; i <= 9; i++)
+            {
+                if (i == 1)
+                {
+                    Console.Write($"{x}の段:");
+                }
+                Console.Write("{0, 3}", i * x);
+            }
+
+            Console.WriteLine();
+        }
+
+        //問6メソッド end ---------------------
+
+        //問7メソッド start ---------------------
+        static bool Prime(int x)
+        {
+            if(x <= 3)
+            {
+                return true;
+            }
+            for(int i = 2; i <= (x / 2); i++)
+            {
+                if(x % i == 0)
+                {
+                    return false;
+                }
+
+            }
+            return true;
+
+        }
+        //問7メソッド end ---------------------
+
+        
     }
 }
