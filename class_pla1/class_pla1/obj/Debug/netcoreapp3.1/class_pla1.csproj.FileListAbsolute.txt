@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/bin/Debug/netcoreapp3.1/class_pla1.deps.json
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/bin/Debug/netcoreapp3.1/class_pla1.runtimeconfig.json
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/bin/Debug/netcoreapp3.1/class_pla1.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/bin/Debug/netcoreapp3.1/class_pla1.dll
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/bin/Debug/netcoreapp3.1/class_pla1.pdb
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.csproj.AssemblyReference.cache
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.dll
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.pdb
+/Users/matsuura/Csharp_note/class_pla1/class_pla1/obj/Debug/netcoreapp3.1/class_pla1.genruntimeconfig.cache
