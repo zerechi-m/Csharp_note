@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matsuura/Csharp_note/for_pla/for_pla/for_pla.csproj": {}
+    "/Users/matsuura/Csharp_note/class_pla2/class_pla2/class_pla2.csproj": {}
   },
   "projects": {
-    "/Users/matsuura/Csharp_note/for_pla/for_pla/for_pla.csproj": {
+    "/Users/matsuura/Csharp_note/class_pla2/class_pla2/class_pla2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matsuura/Csharp_note/for_pla/for_pla/for_pla.csproj",
-        "projectName": "for_pla",
-        "projectPath": "/Users/matsuura/Csharp_note/for_pla/for_pla/for_pla.csproj",
+        "projectUniqueName": "/Users/matsuura/Csharp_note/class_pla2/class_pla2/class_pla2.csproj",
+        "projectName": "class_pla2",
+        "projectPath": "/Users/matsuura/Csharp_note/class_pla2/class_pla2/class_pla2.csproj",
         "packagesPath": "/Users/matsuura/.nuget/packages/",
-        "outputPath": "/Users/matsuura/Csharp_note/for_pla/for_pla/obj/",
+        "outputPath": "/Users/matsuura/Csharp_note/class_pla2/class_pla2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matsuura/.config/NuGet/NuGet.Config"

@@ -132,6 +132,67 @@ namespace for_pla
             }
             Console.WriteLine($"{num3}個の*");
             Console.WriteLine(z);
+
+            //Udemy 問1 for文のデクリメント
+            for (int i = 10; i >= 1; i--)
+            {
+                Console.Write($"{i,2}");
+            }
+            Console.WriteLine();
+
+            //Udemy 問2 二重for文
+            for (int i = 1; i <= 3; i++)
+            {
+                for (int j = 1; j <= 3; j++)
+                {
+                    Console.Write($"{i} + {j} = {i + j} ");
+                }
+                Console.WriteLine();
+            }
+
+            //Udemy 例題1　for文で10回Helloworld を出力(デクリメント）
+
+            for (int i = 10; i > 0; i--)
+            {
+                Console.WriteLine("Hello World");
+            }
+
+            //Udemy 例題2 入力した整数の約数を全て表示
+
+            int yakusuu = n.Next(1, 31);
+
+            Console.WriteLine("約数は{0}", yakusuu );
+            for (int i = 1; i <= yakusuu; i++)
+            {
+                if ( yakusuu % i == 0)
+                {
+                    Console.Write($"{i, 2} ");
+                }
+            }
+            Console.WriteLine();
+
+            //Udemy 例題3 整数の和を当てる計算ゲーム　乱数を2つの和を入力
+
+            int x1 = n.Next(40, 121), x2 = n.Next(1, 101);
+            int x3 = x1 + x2;
+
+            while (true)
+            {
+                Console.WriteLine("{0}と{1}の和を求めなさい", x1, x2);
+                Console.Write("答えを入力：");
+
+                int x4 = int.Parse(Console.ReadLine());
+
+                if (x3 != x4)
+                {
+                    Console.WriteLine("間違い");
+                }
+                else
+                {
+                    Console.WriteLine($"正解: {x1} + {x2} = {x3}");
+                    break;
+                }
+            }
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matsuura/Csharp_note/for_pla/for_pla/for_pla.csproj",
-      "projectName": "for_pla",
-      "projectPath": "/Users/matsuura/Csharp_note/for_pla/for_pla/for_pla.csproj",
+      "projectUniqueName": "/Users/matsuura/Csharp_note/while_pla/while_pla/while_pla.csproj",
+      "projectName": "while_pla",
+      "projectPath": "/Users/matsuura/Csharp_note/while_pla/while_pla/while_pla.csproj",
       "packagesPath": "/Users/matsuura/.nuget/packages/",
-      "outputPath": "/Users/matsuura/Csharp_note/for_pla/for_pla/obj/",
+      "outputPath": "/Users/matsuura/Csharp_note/while_pla/while_pla/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/matsuura/.config/NuGet/NuGet.Config"

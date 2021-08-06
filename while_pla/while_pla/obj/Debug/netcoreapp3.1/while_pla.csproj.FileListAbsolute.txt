@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/while_pla/while_pla/bin/Debug/netcoreapp3.1/while_pla.deps.json
+/Users/matsuura/Csharp_note/while_pla/while_pla/bin/Debug/netcoreapp3.1/while_pla.runtimeconfig.json
+/Users/matsuura/Csharp_note/while_pla/while_pla/bin/Debug/netcoreapp3.1/while_pla.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/while_pla/while_pla/bin/Debug/netcoreapp3.1/while_pla.dll
+/Users/matsuura/Csharp_note/while_pla/while_pla/bin/Debug/netcoreapp3.1/while_pla.pdb
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.csproj.AssemblyReference.cache
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.dll
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.pdb
+/Users/matsuura/Csharp_note/while_pla/while_pla/obj/Debug/netcoreapp3.1/while_pla.genruntimeconfig.cache
