@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="class_reidai/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="class_reidai/Vecter2D.cs">
     <Files>
-      <File FileName="class_reidai/Program.cs" Line="1" Column="1" />
+      <File FileName="class_reidai/Program.cs" Line="7" Column="40" />
+      <File FileName="class_reidai/Vecter2D.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="class_reidai" expanded="True">
             <Node name="class_reidai" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Vecter2D.cs" selected="True" />
             </Node>
           </Node>
         </State>

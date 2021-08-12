@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.csproj.AssemblyReference.cache
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/bin/Debug/netcoreapp3.1/class_reidai.deps.json
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/bin/Debug/netcoreapp3.1/class_reidai.runtimeconfig.json
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/bin/Debug/netcoreapp3.1/class_reidai.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/bin/Debug/netcoreapp3.1/class_reidai.dll
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/bin/Debug/netcoreapp3.1/class_reidai.pdb
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.dll
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.pdb
+/Users/matsuura/Csharp_note/class_reidai/class_reidai/obj/Debug/netcoreapp3.1/class_reidai.genruntimeconfig.cache
