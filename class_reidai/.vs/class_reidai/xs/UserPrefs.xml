@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="class_reidai/Vecter2D.cs">
     <Files>
-      <File FileName="class_reidai/Program.cs" Line="7" Column="40" />
-      <File FileName="class_reidai/Vecter2D.cs" Line="6" Column="9" />
+      <File FileName="class_reidai/Program.cs" Line="32" Column="1" />
+      <File FileName="class_reidai/Vecter2D.cs" Line="18" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,8 +19,10 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/matsuura/Csharp_note/class_reidai/class_reidai/Program.cs" relfile="class_reidai/Program.cs" line="28" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.class__reidai FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.class__reidai PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
