@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class_reidai", "class_reidai\class_reidai.csproj", "{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8004C9CC-EE5E-4A22-BE0C-3DFF603617FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E6D3BB-6679-442F-8107-C811E1D4DC98}
+	EndGlobalSection
+EndGlobal
