@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{049C7668-565D-4A7B-B37F-C9BAAA9C0629}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="access_pla/Person.cs">
     <Files>
-      <File FileName="access_pla/Program.cs" Line="1" Column="1" />
-      <File FileName="access_pla/Person.cs" Line="6" Column="9" />
+      <File FileName="access_pla/Program.cs" Line="22" Column="86" />
+      <File FileName="access_pla/Person.cs" Line="24" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.access__pla FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.access__pla PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,4 @@
+/Users/matsuura/Csharp_note/proparty_pla/proparty_pla/obj/Debug/netcoreapp3.1/proparty_pla.csproj.AssemblyReference.cache
+/Users/matsuura/Csharp_note/proparty_pla/proparty_pla/obj/Debug/netcoreapp3.1/proparty_pla.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/proparty_pla/proparty_pla/obj/Debug/netcoreapp3.1/proparty_pla.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/proparty_pla/proparty_pla/obj/Debug/netcoreapp3.1/proparty_pla.csproj.CoreCompileInputs.cache

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B02F2CAE-A22B-481D-B10E-1A0EDDA515CD}|Default">
+  <MonoDevelop.Ide.ItemProperties.proparty__pla PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="proparty_pla/Access.cs">
+    <Files>
+      <File FileName="proparty_pla/Program.cs" Line="19" Column="6" />
+      <File FileName="proparty_pla/Access.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proparty_pla" expanded="True">
+            <Node name="proparty_pla" expanded="True">
+              <Node name="Access.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

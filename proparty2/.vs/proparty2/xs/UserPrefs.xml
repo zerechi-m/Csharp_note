@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{15A13BF0-D4F2-45A7-878B-2D09AB7963DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="proparty2/Person2.cs">
+    <Files>
+      <File FileName="proparty2/Program.cs" Line="11" Column="1" />
+      <File FileName="proparty2/Person2.cs" Line="32" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proparty2" expanded="True">
+            <Node name="proparty2" expanded="True">
+              <Node name="Person2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.proparty2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matsuura/Csharp_note/proparty2/proparty2/Program.cs" relfile="proparty2/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

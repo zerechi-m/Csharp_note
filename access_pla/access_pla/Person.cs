@@ -21,7 +21,7 @@ namespace access_pla
             Console.WriteLine($"名前：{name}, 年齢：{age}");
         }
 
-        //情報の設定 (プロパティ)
+        //情報の設定 (プロパティ)  カプセル化という概念・・・隠蔽化
         public string Name
         {
             set { name = value; } // フィールドの　name に対して値の設定 *value は外から与えられた値

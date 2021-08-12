@@ -1,0 +1,12 @@
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.csproj.AssemblyReference.cache
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.AssemblyInfoInputs.cache
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.AssemblyInfo.cs
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.csproj.CoreCompileInputs.cache
+/Users/matsuura/Csharp_note/proparty2/proparty2/bin/Debug/netcoreapp3.1/proparty2.deps.json
+/Users/matsuura/Csharp_note/proparty2/proparty2/bin/Debug/netcoreapp3.1/proparty2.runtimeconfig.json
+/Users/matsuura/Csharp_note/proparty2/proparty2/bin/Debug/netcoreapp3.1/proparty2.runtimeconfig.dev.json
+/Users/matsuura/Csharp_note/proparty2/proparty2/bin/Debug/netcoreapp3.1/proparty2.dll
+/Users/matsuura/Csharp_note/proparty2/proparty2/bin/Debug/netcoreapp3.1/proparty2.pdb
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.dll
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.pdb
+/Users/matsuura/Csharp_note/proparty2/proparty2/obj/Debug/netcoreapp3.1/proparty2.genruntimeconfig.cache
